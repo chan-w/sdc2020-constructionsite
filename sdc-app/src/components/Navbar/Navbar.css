@@ -4,10 +4,19 @@
     background-color: black;
 } */
 
+/* Change background to black so the CAT logo is visible*/
+.navbar-logo {
+   background-color: black;
+   padding-top: 4px
+   /*padding: 0px 0px 0px 0px;*/
+}
 
-
+nav {
+   margin: 0px 0px 0px 0px;
+}
 ul {
     list-style-type : none;
+    margin-top: 0px;
     margin : 120;
     padding : 0;
     overflow : hidden;

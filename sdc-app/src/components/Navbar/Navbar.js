@@ -17,11 +17,11 @@ class Navbar extends Component{
         return(
 
             <Router>
-                <h1 className = "navbar-logo">
+                <div className = "navbar-logo">
                  <picture>
                       <img height = "33" width = "66" src="https://s7d2.scene7.com/is/image/Caterpillar/CM20160629-33279-63115?fmt=png-alpha"></img>
                  </picture>
-            </h1>
+            </div>
       <div>
         <nav>
           <ul>
